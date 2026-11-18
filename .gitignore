@@ -1,0 +1,18 @@
+# lo que se instala
+node_modules/
+
+# lo que es de cada persona: sus claves, sus preferencias, su marca, sus vídeos
+.env.local
+preferencias.md
+maquina.md
+marca/*
+!marca/LEEME.md
+proyectos/*
+!proyectos/ejemplo/
+salida/
+
+# lo que se genera al trabajar
+**/revision/
+**/voz.cruda.mp3
+motor/.candado.json
+**/medios/sonidos.wav

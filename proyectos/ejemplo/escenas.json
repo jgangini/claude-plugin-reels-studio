@@ -1,0 +1,27 @@
+[
+ {
+  "id": "idea",
+  "titulo": "Empieza con una idea",
+  "desde": 0
+ },
+ {
+  "id": "guion",
+  "titulo": "El guion y la voz",
+  "desde": "Después"
+ },
+ {
+  "id": "escenas",
+  "titulo": "Las escenas, dibujadas y medidas",
+  "desde": "Cada"
+ },
+ {
+  "id": "aceptas",
+  "titulo": "Tú aceptas las escenas",
+  "desde": "Tú"
+ },
+ {
+  "id": "jueces",
+  "titulo": "Los jueces, antes de entregar",
+  "desde": "varios"
+ }
+]

@@ -1,0 +1,12 @@
+{
+  "name": "reels-studio",
+  "owner": { "name": "Joel Gangini" },
+  "metadata": { "description": "Reels Studio: un taller para hacer vídeos explicativos con una IA." },
+  "plugins": [
+    {
+      "name": "reels",
+      "source": "./plugin",
+      "description": "Vídeos explicativos (reel, YouTube y LinkedIn) con fuentes capturadas, voz, medición automática, portadas y jueces independientes."
+    }
+  ]
+}

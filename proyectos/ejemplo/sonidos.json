@@ -1,0 +1,7 @@
+[
+ { "sonido": "pop", "en": "idea", "volumen": 0.5 },
+ { "sonido": "toque", "en": "guion", "volumen": 0.4 },
+ { "sonido": "toque", "en": "escena", "volumen": 0.4 },
+ { "sonido": "toque", "en": "aceptas", "volumen": 0.4 },
+ { "sonido": "campana", "en": "jueces", "mueve": 0.05, "volumen": 0.4 }
+]
