@@ -1,0 +1,11 @@
+{
+  "name": "reels",
+  "version": "1.0.0",
+  "description": "Le das una idea y te acompaña hasta el vídeo terminado, en el formato de su canal (reel vertical, YouTube 16:9 o LinkedIn 1:1): cada dato sale de una captura, cada idea la explica algo que actúa en pantalla, lo dibujado se mide solo, tú aceptas las escenas y eliges la portada en el chat, y tres jueces independientes lo revisan antes de entregarlo.",
+  "author": {
+    "name": "Joel Gangini"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/jgangini/claude-plugin-reels-studio",
+  "keywords": ["reels", "video", "remotion", "instagram", "tiktok", "youtube", "linkedin"]
+}

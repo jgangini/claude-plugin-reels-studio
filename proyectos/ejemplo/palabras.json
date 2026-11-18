@@ -1,0 +1,195 @@
+{
+ "duracion": 15.89,
+ "palabras": [
+  {
+   "texto": "Aquí,",
+   "inicio": 0.4,
+   "fin": 0.706
+  },
+  {
+   "texto": "un",
+   "inicio": 0.74,
+   "fin": 0.965
+  },
+  {
+   "texto": "vídeo",
+   "inicio": 0.99,
+   "fin": 1.337
+  },
+  {
+   "texto": "empieza",
+   "inicio": 1.375,
+   "fin": 1.802
+  },
+  {
+   "texto": "con",
+   "inicio": 1.85,
+   "fin": 2.115
+  },
+  {
+   "texto": "una",
+   "inicio": 2.145,
+   "fin": 2.41
+  },
+  {
+   "texto": "idea.",
+   "inicio": 2.44,
+   "fin": 2.746
+  },
+  {
+   "texto": "Después",
+   "inicio": 3.23,
+   "fin": 3.657
+  },
+  {
+   "texto": "llegan",
+   "inicio": 3.705,
+   "fin": 4.092
+  },
+  {
+   "texto": "el",
+   "inicio": 4.135,
+   "fin": 4.36
+  },
+  {
+   "texto": "guion",
+   "inicio": 4.385,
+   "fin": 4.731
+  },
+  {
+   "texto": "y",
+   "inicio": 4.77,
+   "fin": 4.954
+  },
+  {
+   "texto": "la",
+   "inicio": 4.975,
+   "fin": 5.2
+  },
+  {
+   "texto": "voz.",
+   "inicio": 5.225,
+   "fin": 5.49
+  },
+  {
+   "texto": "Cada",
+   "inicio": 5.97,
+   "fin": 6.276
+  },
+  {
+   "texto": "escena",
+   "inicio": 6.31,
+   "fin": 6.697
+  },
+  {
+   "texto": "se",
+   "inicio": 6.74,
+   "fin": 6.965
+  },
+  {
+   "texto": "dibuja",
+   "inicio": 6.99,
+   "fin": 7.377
+  },
+  {
+   "texto": "y",
+   "inicio": 7.42,
+   "fin": 7.604
+  },
+  {
+   "texto": "se",
+   "inicio": 7.625,
+   "fin": 7.85
+  },
+  {
+   "texto": "mide.",
+   "inicio": 7.875,
+   "fin": 8.181
+  },
+  {
+   "texto": "Tú",
+   "inicio": 8.665,
+   "fin": 8.89
+  },
+  {
+   "texto": "las",
+   "inicio": 8.915,
+   "fin": 9.18
+  },
+  {
+   "texto": "ves",
+   "inicio": 9.21,
+   "fin": 9.475
+  },
+  {
+   "texto": "y",
+   "inicio": 9.505,
+   "fin": 9.689
+  },
+  {
+   "texto": "aceptas",
+   "inicio": 9.71,
+   "fin": 10.137
+  },
+  {
+   "texto": "las",
+   "inicio": 10.185,
+   "fin": 10.45
+  },
+  {
+   "texto": "que",
+   "inicio": 10.48,
+   "fin": 10.745
+  },
+  {
+   "texto": "te",
+   "inicio": 10.775,
+   "fin": 11
+  },
+  {
+   "texto": "gustan.",
+   "inicio": 11.025,
+   "fin": 11.412
+  },
+  {
+   "texto": "Y",
+   "inicio": 11.905,
+   "fin": 12.089
+  },
+  {
+   "texto": "varios",
+   "inicio": 12.11,
+   "fin": 12.497
+  },
+  {
+   "texto": "jueces",
+   "inicio": 12.54,
+   "fin": 12.927
+  },
+  {
+   "texto": "lo",
+   "inicio": 12.97,
+   "fin": 13.195
+  },
+  {
+   "texto": "revisan",
+   "inicio": 13.22,
+   "fin": 13.647
+  },
+  {
+   "texto": "antes",
+   "inicio": 13.695,
+   "fin": 14.041
+  },
+  {
+   "texto": "de",
+   "inicio": 14.08,
+   "fin": 14.305
+  },
+  {
+   "texto": "entregarlo.",
+   "inicio": 14.33,
+   "fin": 14.879
+  }
+ ]
+}

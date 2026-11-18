@@ -1,0 +1,28 @@
+{
+  "name": "reels-studio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "author": "Joel Gangini",
+  "description": "Un taller para hacer vídeos explicativos con una IA: reels verticales, vídeos de YouTube y de LinkedIn, con voz, subtítulos, medición automática, portadas y jueces independientes.",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@react-three/fiber": "9.8.2",
+    "@remotion/bundler": "4.0.522",
+    "@remotion/google-fonts": "4.0.522",
+    "@remotion/renderer": "4.0.522",
+    "@remotion/three": "4.0.522",
+    "@types/three": "0.186.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "remotion": "4.0.522",
+    "three": "0.186.1"
+  },
+  "devDependencies": {
+    "@types/react": "19.3.0",
+    "typescript": "5.9.3"
+  }
+}

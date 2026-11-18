@@ -1,0 +1,16 @@
+{
+  "titulo": "Así se hace un vídeo en este taller",
+  "formato": "reel",
+  "voz": {
+    "modelo": "elevenlabs/eleven-v4",
+    "id": "l1zE9xgNpUTaQCZzpNJa",
+    "velocidad": 1,
+    "idioma": "es"
+  },
+  "paleta": {
+    "lienzo": "#0B0D12",
+    "acentos": [
+      "#FFD84D"
+    ]
+  }
+}
