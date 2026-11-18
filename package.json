@@ -5,6 +5,8 @@
   "type": "module",
   "license": "MIT",
   "author": "Joel Gangini",
+  "repository": "github:jgangini/claude-plugin-reels-studio",
+  "homepage": "https://github.com/jgangini/claude-plugin-reels-studio#readme",
   "description": "Un taller para hacer vídeos explicativos con una IA: reels verticales, vídeos de YouTube y de LinkedIn, con voz, subtítulos, medición automática, portadas y jueces independientes.",
   "engines": {
     "node": ">=20"
